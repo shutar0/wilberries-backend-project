@@ -20,3 +20,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+SECRET_KEY=django-insecure-123456
+DEBUG=True
+
+DB_NAME=wildberries_db
+DB_USER=postgres
+DB_PASSWORD=your_password
+DB_HOST=localhost
+DB_PORT=5432
